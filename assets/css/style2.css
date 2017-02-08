@@ -96,14 +96,14 @@ p {
 }
 
 
-.leftSide {
+/* .leftSide {
 	display: inline;
 	background-color: #ffffff;
 	padding: 25px;
 	border: solid #cccccc;
 	float: left;
 	margin: -2% 1% 1% 1%;
-}
+} */
 
 .leftSide h1 {
 	color: #4aaaa5;
@@ -124,7 +124,7 @@ p {
 	padding: 0px 0 0 22px ;
 }
 
-.rightSide {
+/* .rightSide {
 	float: right;
 	text-align: center;
 	background-color: #ffffff;
@@ -132,7 +132,7 @@ p {
 	border: solid #cccccc;
 	margin: 0% 1% 25px 1%;
 	display: inline;
-}
+} */
 
 .socialMedia img {
 	height: 60px;
